@@ -1,26 +1,25 @@
 # Project: Reformat of Velocity from ASCII to Excel CSV file
 
 ## Overview
-This is a simple project to read a txt file of seismic velocity file and output the in certain column in Excel 
+This is a simple project to read a txt file of seismic velocity file and output in certain column in Excel 
 
 ## Installation
-Instructions on how to install or set up your project.
+Install Jupyter Notebook
 
 ## Usage
-Instructions on how to use your project, including code examples if applicable.
+Used to reformat ASCII file and export to Excel CSV file.
 
 ## Features
-List of features or functionalities of your project.
+Use of Python codes to read ASCII file and use pandas to create dataframe and output to Excel CSV file.
 
 ## Contributing
-Guidelines for contributing to your project, including information on how others can contribute.
+Feel free to download all the files and code and output data to desired format and share your findings.
 
 ## License
-Information about the license of your project.
+Using all Open source codes.  The input data is taken originally from NAPIMS.
 
 ## Support
-Contact information for support or assistance with your project.
+No support will be provided.
 
 ## Acknowledgements
-Any acknowledgements or credits you want to give to others who have contributed to your project.
-
+Acknowledgements my mate, A.Maftei for providing the input files.
